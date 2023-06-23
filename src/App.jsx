@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>My first proyect with Vite + React!</p>
+        <p>Also using Github Pages and Github Actions :)</p>
       </div>
     </>
   );
